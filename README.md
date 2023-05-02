@@ -1,1 +1,4 @@
 # Proyecto_Analitica
+Los accidentes cerebrovasculares son una de las principales causas de muerte a nivel mundial, llegando a representar el 11% de muertes mundiales cada año. A través de ramas de la inteligencia artificial, como es el machine learning, se creará un modelo que, por medio de algoritmos y un entrenamiento con una base de datos de un hospital público, aprenda de estos datos y sea capaz de predecir si un paciente tiene una alta o una baja probabilidad de sufrir un ataque cerebral.  
+
+Para el desarrollo del modelo será sustancial seguir procesos como una limpieza de datos adecuada, análisis e identificación de las variables predictivas más importantes, reducción de problemas causados por bases de datos no balanceadas, implementación de algoritmos de predicción, seleccionar el modelo más adecuado y hacer un análisis de sus errores. 
